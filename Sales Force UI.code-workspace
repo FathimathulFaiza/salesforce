@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "salesForce photos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sales Force UI"
+	}
+}
